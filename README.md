@@ -24,7 +24,7 @@
 ## Steps to perform EDA
 
 1. Load data and see Overview
-2. Data cleaning and standardization
+2. Data cleaning and standardisation
 3. Univariate Analysis
 4. Segmented Univariate Analysis
 5. Bivariate Analysis
