@@ -36,7 +36,7 @@
 - Most people prefer to repay their loans over 36 months (3 years), about 75% of them.
 - Most people, around 85%, manage to pay back their loans, but roughly 15% can't.
 - People with unverified income sources tend to get bigger loans.
-- The typical loan amount is $10,000, but there are some people who get a lot more.
+- The typical loan amount is $10k but there are some people who get a lot more.
 - People who choose 60-month loans are more likely to have trouble repaying than those who go for 36-month loans.
 - People with lower credit scores get bigger loans compared to those with better credit scores.
 - When interest rates are higher, more people can't repay their loans compared to when rates are lower.
