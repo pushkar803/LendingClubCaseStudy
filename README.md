@@ -59,8 +59,8 @@
 ## Contact
 
 Created by
-[@pushkar803]
-[@raguramjid]
+[@pushkar803](https://github.com/pushkar803).
+[@raguramjid](https://github.com/raguramjid).
 
 <!-- Optional -->
 <!-- ## License -->
