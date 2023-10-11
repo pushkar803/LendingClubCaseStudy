@@ -1,6 +1,6 @@
 # lending-club-case-study
 
-> Exploratory Data Analysis on a lending club to understand the driving behind loan default
+> Exploratory Data Analysis on a lending club to understand the driving factors behind loan default
 
 ## Table of Contents
 
